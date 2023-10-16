@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Ai voice cloning and accent conversion
+- 🌱 I’m currently learning 
+
 
 <!--
 **Shachrissy/Shachrissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
