@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Ai voice cloning and accent conversion
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning R, SQL and HTML
 
 
 <!--
